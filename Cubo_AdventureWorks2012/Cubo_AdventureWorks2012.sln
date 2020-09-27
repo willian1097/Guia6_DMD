@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Cubo_AdventureWorks2012", "Cubo_AdventureWorks2012\Cubo_AdventureWorks2012.dwproj", "{D3AA9FA3-0AAF-4112-9EC6-6BCC8383D9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AA9FA3-0AAF-4112-9EC6-6BCC8383D9C1}.Development|Default.ActiveCfg = Development
+		{D3AA9FA3-0AAF-4112-9EC6-6BCC8383D9C1}.Development|Default.Build.0 = Development
+		{D3AA9FA3-0AAF-4112-9EC6-6BCC8383D9C1}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33CD418-F476-4913-B145-AB6AC9A21850}
+	EndGlobalSection
+EndGlobal
